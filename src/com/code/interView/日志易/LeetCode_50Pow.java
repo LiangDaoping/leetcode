@@ -1,4 +1,4 @@
-package com.code.leetcode.日志易;
+package com.code.interView.日志易;
 
 /**
  * @description:
