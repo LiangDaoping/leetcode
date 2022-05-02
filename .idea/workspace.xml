@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b02eb8db-5bd0-420b-9ece-b81d53564f33" name="Default Changelist" comment="" />
+    <list default="true" id="b02eb8db-5bd0-420b-9ece-b81d53564f33" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -87,7 +89,7 @@
       <workItem from="1651404792060" duration="439000" />
       <workItem from="1651405317380" duration="6000" />
       <workItem from="1651406500953" duration="1864000" />
-      <workItem from="1651462636041" duration="384000" />
+      <workItem from="1651462636041" duration="1282000" />
     </task>
     <task id="LOCAL-00001" summary="feat(add gitignore)">
       <created>1651462906408</created>
@@ -96,7 +98,21 @@
       <option name="project" value="LOCAL" />
       <updated>1651462906408</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="feat(init)">
+      <created>1651463150896</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1651463150896</updated>
+    </task>
+    <task id="LOCAL-00003" summary="feat(init)">
+      <created>1651463291564</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1651463291564</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -116,6 +132,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="feat(add gitignore)" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat(add gitignore)" />
+    <MESSAGE value="feat(init)" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat(init)" />
   </component>
 </project>
