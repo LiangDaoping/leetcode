@@ -11,6 +11,7 @@ public class LeetCode12_21合并两个有序链表 {
         int[] l2 = new int[]{1, 3, 4};
         initAndMergeTwoListsAndPrint(l1, l2); // [1,1,2,3,4,4]
 
+
         l1 = new int[]{};
         l2 = new int[]{};
         initAndMergeTwoListsAndPrint(l1, l2); // []
