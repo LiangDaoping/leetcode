@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * @description:
+ * @description: 22括号生成
  * @author: gz
  * @date: 2022/03/14
  */
