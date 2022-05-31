@@ -11,10 +11,12 @@ import java.util.List;
 public class LeetCode13_22括号生成 {
     public static void main(String[] args) {
         int n = 3;
-        System.out.println(generateParenthesis(n)); // ["((()))","(()())","(())()","()(())","()()()"]
+        // ["((()))","(()())","(())()","()(())","()()()"]
+        System.out.println(generateParenthesis(n));
 
         n = 1;
-        System.out.println(generateParenthesis(n)); // ["()"]
+        // ["()"]
+        System.out.println(generateParenthesis(n));
     }
 
     public static List<String> generateParenthesis(int n) {
